@@ -1,2 +1,2 @@
-# colledge.top
+# college.top
 домашка
